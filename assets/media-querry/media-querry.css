@@ -1,0 +1,23 @@
+@media screen and (max-width: 1200px) {
+    nav {
+        display: none;
+    }
+
+    main {
+        display: none;
+    }
+
+    #crash {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        margin-top: 25%;
+        font-size: 100%;
+    }
+}
+
+@media screen and (min-width: 1200px) {
+    #crash {
+        display: none;
+    }
+}
