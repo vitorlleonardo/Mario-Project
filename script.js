@@ -1,3 +1,5 @@
+alert("Caso não saia audio ao passar o mouse pelas images, aguarde ou recarregue o site!");
+
 function showText() {
     let caixa = document.getElementById("caixa");
     if (caixa.style.display === "block") {
