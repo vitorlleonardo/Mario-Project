@@ -1,4 +1,4 @@
-alert("Caso não saia audio ao passar o mouse pelas images, aguarde ou recarregue o site!");
+alert("Caso não saia audio ao passar o mouse pelas imagens, aguarde ou recarregue o site!");
 
 function showText() {
     let caixa = document.getElementById("caixa");
